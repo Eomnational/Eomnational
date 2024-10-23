@@ -1,5 +1,7 @@
 ## Hi there 👋
-![](url)
+
+![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
+
 
 <!--
 **Eomnational/Eomnational** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

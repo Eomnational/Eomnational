@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eomnational&layout=compact&theme=tokyonight)
 
 <!--
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=transparent)
-
+![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)

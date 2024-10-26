@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github)
 ## I can
-![redis](https://img.shields.io/badge/Redis-5.0+-yellow)
+![](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23fff)
+
 
 
 <!--

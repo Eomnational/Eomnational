@@ -28,7 +28,7 @@
 
 
 
-[![Ashutosh's github activity graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8)
+![Ashutosh's github activity graph]([http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}))
 
 ![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8)

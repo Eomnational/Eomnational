@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff)
 
 
-![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=%23fff)
+'''![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=%23fff)'''
 ![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=%23fff)
 ![](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=%23fff)
 ![](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=%23fff)

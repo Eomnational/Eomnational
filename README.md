@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github)
 ## I can
-![](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23fff)
+![](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=%23fff)
+![](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=%23fff)
 
 
 

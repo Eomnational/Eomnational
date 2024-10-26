@@ -14,14 +14,13 @@
 ![](https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=mui&logoColor=%23fff)
 ![](https://img.shields.io/badge/Element-%230DBD8B?style=flat-square&logo=element&logoColor=%23fff)
 ![](https://img.shields.io/badge/Next-%23000000?style=flat-square&logo=next.js&logoColor=%23fff)
-
-
 ![](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff)
+
+
 ![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=%23fff)
 ![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=%23fff)
 ![](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=%23fff)
 ![](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=%23fff)
-
 ![](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=%23fff)
 ![](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=%23fff)
 

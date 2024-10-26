@@ -31,7 +31,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=utcOffset=+8.00)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Eomnational&theme=default)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eomnational&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github)
-
+## I can
+![](https://i-blog.csdnimg.cn/blog_migrate/d9ccf87267393a1cc2cb676ddb2b2570.png)![](https://i-blog.csdnimg.cn/blog_migrate/9b73fd0031a9df560c4d8d39640546bc.png)![](https://i-blog.csdnimg.cn/blog_migrate/d555082e24c985f745dab86ea58b46b6.png)
 
 
 <!--

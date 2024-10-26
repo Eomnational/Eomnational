@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=default)
 ![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Eomnational&theme=minimal)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Eomnational&theme=dracula)

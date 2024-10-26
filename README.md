@@ -25,7 +25,8 @@
 ![](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=%23fff)
 ![](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=%23fff)
 
-
+## Welcome to my Github
+![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
 
 
 
@@ -36,7 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eomnational&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Eomnational&theme=default)](https://git.io/streak-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
 
 ![Ashutosh's github activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eomnational&theme=default)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eomnational&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)

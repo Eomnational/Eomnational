@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Eomnational&theme=minimal)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Eomnational&theme=dracula)
+
 

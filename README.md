@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff)
 
 
-'''![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=%23fff)'''
+![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=%23fff)
 ![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=%23fff)
 ![](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=%23fff)
 ![](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=%23fff)
@@ -27,11 +27,13 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eomnational&theme=default)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eomnational&theme=default)](https://git.io/streak-stats)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Eomnational&theme=default)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eomnational&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

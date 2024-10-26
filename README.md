@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github)
 ## I can
-![](https://i-blog.csdnimg.cn/blog_migrate/d9ccf87267393a1cc2cb676ddb2b2570.png)![](https://i-blog.csdnimg.cn/blog_migrate/9b73fd0031a9df560c4d8d39640546bc.png)![](https://i-blog.csdnimg.cn/blog_migrate/d555082e24c985f745dab86ea58b46b6.png)
+![Static Badge](https://img.shields.io/badge/%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EHTML5%3C%2Ftitle%3E%3Cpath%20d%3D%22M1.5%200h21l-1.91%2021.563L11.977%2024l-8.564-2.438L1.5%200zm7.031%209.75l-.232-2.718%2010.059.003.23-2.622L5.412%204.41l.698%208.01h9.126l-.326%203.426-2.91.804-2.955-.81-.188-2.11H6.248l.33%204.171L12%2019.351l5.379-1.443.744-8.157H8.531z%22%2F%3E%3C%2Fsvg%3E)
 
 
 <!--

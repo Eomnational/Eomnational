@@ -1,6 +1,8 @@
 ## Hi there 👋
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github&font-size=40) -->
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&pause=1000&width=435&lines=I+am+Zero;Welcome+to+my+Github" alt="Typing SVG" /></a>
+<div>
 
 ## I can
 ![](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=%23fff)

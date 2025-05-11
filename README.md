@@ -2,7 +2,13 @@
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github&font-size=40) -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&pause=1000&width=435&lines=I+am+Zero;Welcome+to+my+Github" alt="Typing SVG" /></a>
-<div>
+</div>
+
+## About Me​
+- 💻 ​Frontend Development Engineer​
+- 🎯 Formerly spearheaded frontend architecture upgrades for the ​LightClass System​ & ​On-Demand Platform​ at Gaodun Education. Currently driving responsive redesign of the ​AI Model Security Evaluation System​ at NSFOCUS Technologies.
+- ❤️‍🔥 Passionate about building enterprise-grade applications with ​React + TypeScript, delivering secure and efficient digital solutions through clean code.
+- 🚀 Actively exploring cutting-edge domains like ​data visualization engines, with multiple open-source contributions to ByteDance's ​VisActor​
 
 ## I can
 ![](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=%23fff)
@@ -30,16 +36,13 @@
 ![](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=%23fff)
 
 ## Welcome to my Github
-![Visitor Count](https://profile-counter.glitch.me/Eomnational/count.svg)
-
-
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Eomnational&show_icons=true&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eomnational&theme=default&utcOffset=8) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eomnational&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eomnational&theme=default)](https://git.io/streak-stats)
+
 
 
 ![Ashutosh's github activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eomnational&theme=default)

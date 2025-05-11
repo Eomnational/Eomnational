@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github&font-size=40)
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Zero;Welcome+to+my+Github&font-size=40) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&pause=1000&width=435&lines=I+am+Zero;Welcome+to+my+Github" alt="Typing SVG" /></a>
 
 ## I can

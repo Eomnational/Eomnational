@@ -14,7 +14,7 @@
 🚀 Actively exploring cutting-edge domains like ​data visualization engines, with multiple open-source contributions to ByteDance's ​VisActor​
 
 ## Welcome to my Github
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!-- 

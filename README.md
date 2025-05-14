@@ -15,7 +15,7 @@
 
 ## Welcome to my Github
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
-![暗色](https://raw.githubusercontent.com/Eomnational/Eomnational/output/github-contribution-grid-snake-dark.svg)
+<!-- ![暗色](https://raw.githubusercontent.com/Eomnational/Eomnational/output/github-contribution-grid-snake-dark.svg) -->
 
 
 <!-- 

@@ -12,8 +12,7 @@
 ❤️‍🔥 Passionate about building enterprise-grade applications with ​React + TypeScript, delivering secure and efficient digital solutions through clean code.
 
 🚀 Actively exploring cutting-edge domains like ​data visualization engines, with multiple open-source contributions to ByteDance's ​VisActor​ and AntGroup's AntV
-- [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eomnational-g2-contributor.json)](https://github.com/antvis/g2)
-- [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eomnational-g6-contributor.json)](https://github.com/antvis/g6)
+- [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eomnational-g2-contributor.json)](https://github.com/antvis/g2)       [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/eomnational-g6-contributor.json)](https://github.com/antvis/g6)
 
 
 ## Welcome to my Github

@@ -5,7 +5,7 @@
 </div>
 
 ## About Me​
-💻 ​Frontend Development Engineer​
+💻 Frontend Development Engineer  ​->  ​AI Application Development Engineer​
 
 🎯 Formerly spearheaded frontend architecture upgrades for the ​LightClass System​ & ​On-Demand Platform​ at Gaodun Education. Currently driving responsive redesign of the ​AI Model Security Evaluation System​ at NSFOCUS Technologies.
 
